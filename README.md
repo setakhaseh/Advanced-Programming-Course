@@ -1,6 +1,6 @@
 # Advanced Programming – Spring 2024 (AUT)
 
-## 📖 Overview
+##  Overview
 This repository contains all **assignments and the final project** developed for the **Advanced Programming** course at **Amirkabir University of Technology (Tehran Polytechnic)** during **Spring 2024**.
 
 The assignments cover a range of programming paradigms, languages, and topics including **C++**, **Python**, **JavaScript**, **OOP**, **STL**, **asynchronous programming**, and **decorators**.  
@@ -8,7 +8,7 @@ The final project focuses on designing and implementing the **Quoridor Game** in
 
 ---
 
-## 🧩 Repository Structure
+##  Repository Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -22,14 +22,14 @@ The final project focuses on designing and implementing the **Quoridor Game** in
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Languages:** C++, Python, JavaScript, Bash  
 - **Frameworks/Concepts:** STL, OOP, Asynchronous Programming, Decorators, Data Structures  
 - **Tools:** VS Code, CLion, Git, GitHub  
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Proficiency in **object-oriented programming** across multiple languages  
 - Experience with **data structures and algorithmic thinking**  
 - Understanding of **concurrency and asynchronous programming** in Python  
