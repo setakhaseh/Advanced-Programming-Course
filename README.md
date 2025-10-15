@@ -39,7 +39,7 @@ The final project focuses on designing and implementing the **Quoridor Game** in
 ---
 
 ## 🧑‍💻 Author
-Developed by *[Setayesh Khasehtarash]*  
+Developed by *Setayesh Khasehtarash*  
 Advanced Programming Course – Spring 2024  
 Amirkabir University of Technology (Tehran Polytechnic)
 
